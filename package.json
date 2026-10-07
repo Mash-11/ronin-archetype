@@ -1,0 +1,8 @@
+{
+  "name": "ronin-archetype",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
